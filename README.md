@@ -1,15 +1,13 @@
 # 🎓 Student Performance Dashboard
 
-An interactive **Power BI dashboard** designed to analyze student performance, attendance, and behavior insights in a clear and actionable way.
+ 📌 Overview
+   This project presents an interactive Student Performance Dashboard built using Microsoft Power BI.
+   The dashboard provides insights into student academic performance, attendance, and subject-wise analysis to help educators make data driven decisions.
 
 ---
 
 ## 🚀 Project Overview
-
-This dashboard helps educators and administrators monitor:
-
-- 📊 Student academic performance  
-- 📅 Attendance trends  
+- 📊 Student academic performance    
 - 🧠 Behavior patterns  
 - 🏫 Class & section-wise insights  
 
@@ -17,13 +15,7 @@ It transforms raw student data into meaningful visual insights for better decisi
 
 ---
 
-## 🧩 Features
-
-- 🎯 Dynamic Filters:
-  - Class  
-  - Section  
-  - Subject  
-  - Term  
+## 🧩 Features 
 
 - 📈 Performance Metrics:
   - Total Students  
@@ -46,9 +38,10 @@ It transforms raw student data into meaningful visual insights for better decisi
   - Late  
   - Absent without notice  
 
----
+## 📸 Dashboard Preview
 
-
-  ![image alt](<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/68ef9b88-0dbd-44b0-b2ff-868603113c13" />)
+### 🏠 Main Dashboard
+  <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/68ef9b88-0dbd-44b0-b2ff-868603113c13" />)
   
+## 📸 Bookmarks Filter Dashboard Preview  
 
