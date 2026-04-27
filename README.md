@@ -45,3 +45,5 @@ It transforms raw student data into meaningful visual insights for better decisi
   
 ## 📸 Bookmarks Filter Dashboard Preview  
 
+### 📊 Behavior Analysis
+<img width="1326" height="747" alt="image" src="https://github.com/user-attachments/assets/94a6b501-5536-4747-8f5a-32a6e38d6435" />
