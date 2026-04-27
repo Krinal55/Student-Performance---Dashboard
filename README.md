@@ -8,4 +8,6 @@
   •📅Attendance track
   •🏫Class & Section wise insights
 
-  ![image alt](
+  ![image alt](<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/68ef9b88-0dbd-44b0-b2ff-868603113c13" />)
+  
+
